@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464871021435",
+    "project_id": "studentdatabasemanager-12b8c",
+    "storage_bucket": "studentdatabasemanager-12b8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464871021435:android:5ec47d403eb90961c3bbde",
+        "android_client_info": {
+          "package_name": "com.example.sqlite_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBcEB4iNGUkllsjjS9ia6_dN68CeCkBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
